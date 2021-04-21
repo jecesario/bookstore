@@ -1,0 +1,12 @@
+img {
+    height: 3rem;
+}
+
+.header {
+    justify-content: center;
+    height: 10%;
+}
+
+h1 {
+    margin-left: 10px;
+}

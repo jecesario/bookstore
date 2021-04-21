@@ -1,0 +1,40 @@
+.content {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.title h1{
+    font-size: 30px;
+    color: #dadada;
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+.table {
+    width: 100%;
+}
+
+.acoes {
+    width: 100px;
+}
+
+.edit {
+    color: rgb(253, 188, 66);
+}
+
+.delete {
+    color: rgb(253, 66, 66);
+    margin-left: 10px;
+}
+
+.book {
+    color: rgb(39, 153, 182);
+    margin-left: 10px;
+}
